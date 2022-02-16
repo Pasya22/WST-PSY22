@@ -1,0 +1,30 @@
+body{
+        background-color: rgb(4, 160, 250);
+      
+}
+.box{
+        width: 400px;
+        background:-webkit-linear-gradient(blue,red);
+        padding: 10px;
+        margin-left: 39%;
+}
+.content{
+        height: 350px;
+        overflow: hidden;
+        background: #FFF;
+        overflow: auto;
+}
+.content li{
+        font-size: 12px;
+        list-style: none;
+}
+.content li .date{
+        text-align: right;
+}
+.form{
+        margin: 20px 20px 20px 20px;
+}
+.name{
+    font-family: 'Times New Roman', Times, serif;
+
+}
